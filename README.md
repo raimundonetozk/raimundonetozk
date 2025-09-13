@@ -5,8 +5,9 @@
 
 - ## 📊 Minhas estatísticas no GitHub
 
+| GitHub Stats | Linguagens mais usadas |
+|--------------|-------------------------|
 | ![raimundonetozk GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=radical) |
-
 - ## 🛠️ Habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
