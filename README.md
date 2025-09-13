@@ -5,8 +5,7 @@
 
 - ## 📊 Minhas estatísticas no GitHub
 
-![raimundonetozk GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) |
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=radical)
+| ![raimundonetozk GitHub stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=radical) |
 
 - ## 🛠️ Habilidades
 
