@@ -1,7 +1,7 @@
 ## Olá, eu me chamo Raimundo, e seja bem vindo(a) ao meu perfil 👋✨
 
 - 📚 Atualmente estou estudando desenvolvimento backend com interesses futuros em frontend
-- 💻 Focado em **Java**
+- 💻 Focando em **Java** no momento
 
 - ## 📊 Minhas estatísticas no GitHub
 
