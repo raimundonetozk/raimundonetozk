@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ## ✉️ Contato
 - 📧 Email: raimundoneto461@gmail.com  
-- 💼 LinkedIn: [Raimundo Neto](www.linkedin.com/in/raimundo-nonato-83668b32a)  
+- 💼 LinkedIn: [Raimundo Nonato](www.linkedin.com/in/raimundo-nonato-83668b32a)  
 
 ## ✨ Citação
 > "Não é a linguagem de programação que define o programador, mas sim sua lógica." – David Ribeiro Guilherme
