@@ -7,7 +7,7 @@
 
 | GitHub Stats | Linguagens mais usadas |
 |--------------|-------------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=radical&cache_seconds=1800) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical&cache_seconds=1800)|
 - ## 🛠️ Habilidades
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
