@@ -7,7 +7,7 @@
 
 | GitHub Stats | Linguagens que utilizo |
 |-------------|------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> </div> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> |
 
 - ## 🛠️ Habilidades
 
