@@ -3,12 +3,11 @@
 - 📚 Atualmente estou estudando desenvolvimento backend com interesses futuros em frontend
 - 💻 Focando em **Java** no momento
 
-- ## 📊 Minhas estatísticas no GitHub
+## 📊 Minhas estatísticas no GitHub
 
-| GitHub Stats | Linguagens mais usadas |
-|--------------|-------------------------|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=radical&cache_seconds=1800)|
+| GitHub Stats | Linguagens que utilizo |
+|-------------|------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> </div> |
 
 - ## 🛠️ Habilidades
 
