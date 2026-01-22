@@ -1,23 +1,50 @@
-## Olá, eu me chamo Raimundo, e seja bem vindo(a) ao meu perfil 👋✨
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=24&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Raimundo+Neto!;Estudante+de+Ciência+da+Computação;Futuro+Desenvolvedor+Backend)
 
-- 📚 Atualmente estou estudando desenvolvimento backend com interesses futuros em frontend
-- 💻 Focando em **Java** no momento
+---
+
+## 👋 Sobre mim
+🎓 Estudante de **Ciência da Computação (UEPB)**  
+💻 Focado em **desenvolvimento backend**  
+☕ Atualmente estudando **Java**  
+🐍 Experiência com **Python**  
+📘 Conhecimentos iniciais em **C**  
+
+📍 Brasil  
+🎯 Buscando **estágio / oportunidade júnior** para aprender e evoluir profissionalmente
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+</p>
+
+---
 
 ## 📊 Minhas estatísticas no GitHub
 
-| GitHub Stats | Linguagens que utilizo |
-|-------------|------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> </div> |
+| GitHub Stats | Linguagens |
+|-------------|------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&langs_count=6&theme=radical) |
 
-- ## 🛠️ Habilidades
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-## ✉️ Contato
-- 📧 Email: raimundoneto461@gmail.com  
-- 💼 LinkedIn: [Raimundo Nonato](www.linkedin.com/in/raimundo-nonato-83668b32a)  
+## 📂 Projetos em destaque
+🔹 *Em construção* — em breve projetos práticos em Java e Python  
+🔹 Sistemas acadêmicos  
+🔹 Exercícios de lógica e POO  
 
-## ✨ Citação
-> "Não é a linguagem de programação que define o programador, mas sim sua lógica." – David Ribeiro Guilherme
+> 📌 *Atualizando constantemente conforme avanço nos estudos.*
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 LinkedIn: https://www.linkedin.com/in/raimundo-nonato-83668b32a  
+- 💻 GitHub: https://github.com/raimundonetozk  
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus repositórios!*
