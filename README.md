@@ -6,7 +6,7 @@
 🎓 Estudante de **Ciência da Computação (UEPB)**  
 💻 Focado em **desenvolvimento backend**  
 ☕ Atualmente focando em **Java**  
-🐍 Experiência com **Python** e **C**  **Java**
+🐍 Experiência com **Python** **C** e **Java**
 
 📍 Brasil  
 🎯 Buscando **estágio / oportunidade júnior** para aprender e evoluir profissionalmente
