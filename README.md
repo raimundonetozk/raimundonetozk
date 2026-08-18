@@ -50,17 +50,7 @@
 
 ---
 
-## 🔥 Sequência de contribuições
 
-<div align="center">
-
-<a href="https://github.com/raimundonetozk">
-<img src="https://streak-stats.demolab.com?user=raimundonetozk&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
 
 ## 🚀 Projetos em destaque
 
