@@ -3,13 +3,14 @@
 ---
 
 ## 👋 Sobre mim
-🎓 Estudante de **Ciência da Computação (UEPB)**  
-💻 Focado em **desenvolvimento backend**  
-☕ Atualmente focando em **Java**  
-🐍 Experiência com **Python** **C** e **Java**
+🎓 Estudante de **Ciência da Computação na UEPB**  
+💻 Focado em **desenvolvimento backend com java**  
+🐍 Experiência acadêmica com **Python** **C** e **Java**
+📚 Atualmente estudando APIs REST, banco de dados e Spring Boot
+🚀 Construindo projetos para evoluir minhas habilidades
 
-📍 Brasil  
 🎯 Buscando **estágio / oportunidade júnior** para aprender e evoluir profissionalmente
+📍 Brasil  
 
 ---
 
