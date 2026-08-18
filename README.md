@@ -41,14 +41,12 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raimundonetozk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=dark"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raimundonetozk&theme=dark"/>
-</p>
+<img src="./profile/stats.svg" width="48%" alt="Estatísticas do GitHub"/>
+<img src="./profile/top-langs.svg" width="48%" alt="Principais linguagens"/>
+
+</div>
 
 ---
 
