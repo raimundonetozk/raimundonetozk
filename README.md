@@ -41,17 +41,11 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
-
-<a href="https://github.com/raimundonetozk">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub"/>
-</a>
-
-<a href="https://github.com/raimundonetozk">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=1800" alt="Principais linguagens"/>
-</a>
-
-</div>
+<!-- Minhas estatísticas no GitHub -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
 
 ---
 
