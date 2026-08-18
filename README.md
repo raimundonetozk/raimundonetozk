@@ -43,8 +43,13 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" alt="Estatísticas do GitHub"/>
-<img src="./profile/top-langs.svg" width="48%" alt="Principais linguagens"/>
+<a href="https://github.com/raimundonetozk">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub"/>
+</a>
+
+<a href="https://github.com/raimundonetozk">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&langs_count=6&theme=radical&hide_border=true&cache_seconds=1800" alt="Principais linguagens"/>
+</a>
 
 </div>
 
