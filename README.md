@@ -14,7 +14,7 @@
 
 🐍 Experiência acadêmica com **Python, C e Java**
 
-📚 Atualmente estudando **Spring Boot, APIs REST e bancos de dados**
+📚 Atualmente estudando **Spring Boot e APIs REST**
 
 🚀 Construindo projetos práticos para desenvolver minhas habilidades
 
