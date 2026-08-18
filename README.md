@@ -42,7 +42,7 @@
 
 ## 🌐 Onde me encontrar
 - 💼 LinkedIn: https://www.linkedin.com/in/raimundo-nonato-83668b32a  
-- 💻 GitHub: https://github.com/raimundonetozk  
+- 💻 Gmail: raimundoneto461@gmail.com  
 
 ---
 
