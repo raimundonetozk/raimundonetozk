@@ -75,7 +75,6 @@
 * 🔗 APIs REST
 * 🗄️ Bancos de dados e SQL
 * 🔧 Git e GitHub
-* 🐳 Docker
 * 🧠 Estruturas de dados e algoritmos
 
 ---
