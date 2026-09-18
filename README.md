@@ -1,70 +1,179 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Raimundo+Neto!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Desenvolvedor+Backend)](https://git.io/typing-svg)
+# Raimundo Neto
 
-[Email](mailto:raimundoneto461@gmail.com) • [LinkedIn](https://www.linkedin.com/in/raimundo-nonato-83668b32a)
+### Estudante de Ciência da Computação | Backend Developer
+
+<p>
+  Construindo projetos, aprendendo novas tecnologias e transformando conhecimento em código.
+</p>
+
+<a href="https://github.com/raimundonetozk">
+  <img src="https://img.shields.io/github/followers/raimundonetozk?label=Seguidores&style=flat-square&logo=github" alt="Seguidores">
+</a>
+<a href="https://github.com/raimundonetozk?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=flat-square&logo=github" alt="Projetos">
+</a>
+<a href="mailto:raimundoneto461@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento backend. Comecei com Java, Python e C na faculdade e venho colocando esse aprendizado em prática em projetos como um sistema de gerenciamento de estoque, um programa de cadastro de doação de sangue e um chatbot de pagamentos com tools MCP, feito em grupo com Node.js, TypeScript e React. Agora estou aprofundando meus estudos em Java, Spring Boot e APIs REST, e busco meu primeiro estágio ou oportunidade júnior na área.
+Sou estudante de **Ciência da Computação na UEPB**, com foco em desenvolvimento **backend**.
+
+Comecei minha jornada com **Java, Python e C** durante a graduação e venho colocando esse conhecimento em prática através de projetos acadêmicos e pessoais.
+
+Atualmente estou aprofundando meus estudos em:
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🗄️ Banco de dados
+- 🧩 Arquitetura e organização de aplicações
+- 🐳 Docker e ferramentas de desenvolvimento
+
+Também tenho experiência com projetos utilizando **Node.js, TypeScript e React**, além de trabalhos desenvolvidos em grupo.
+
+> Sempre aprendendo, construindo e tentando escrever um código melhor que o anterior. 🚀
 
 ---
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,nodejs" alt="Tecnologias backend">
+</p>
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Tecnologias frontend">
 </p>
 
-<p align="center">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=raimundonetozk&theme=tokyonight&hide_border=true" />
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Banco de dados">
 </p>
 
-<p align="center">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=raimundonetozk&theme=tokyo-night&hide_border=true" />
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" alt="Ferramentas">
 </p>
 
 ---
 
-## Contato
+## 🚀 Projetos
 
-- **Email**: [raimundoneto461@gmail.com](mailto:raimundoneto461@gmail.com)
-- **LinkedIn**: [Raimundo Neto](https://www.linkedin.com/in/raimundo-nonato-83668b32a)
+### 📦 Sistema de Gerenciamento de Estoque
+
+Sistema desenvolvido durante a graduação com o objetivo de realizar o gerenciamento de produtos em estoque.
+
+**Tecnologias:** Java
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/raimundonetozk/Projeto-gerenciamento-de-estoque)
+
+---
+
+### 🩸 Sistema de Cadastro de Doação de Sangue
+
+Projeto desenvolvido com o objetivo de auxiliar e otimizar o processo de cadastro relacionado à doação de sangue.
+
+**Tecnologias:** Python
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/raimundonetozk/cadastro-de-doa--o-de-sangue)
+
+---
+
+### 💳 Payments API
+
+Projeto desenvolvido em grupo envolvendo uma API relacionada a pagamentos e integração com tecnologias modernas do ecossistema JavaScript/TypeScript.
+
+**Tecnologias:** Python, TypeScript, Node.js
+
+[![Repositório](https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github)](https://github.com/raimundonetozk/payments-api)
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+Java
+ └── Spring Boot
+      ├── APIs REST
+      ├── Spring Data
+      ├── Banco de dados
+      └── Arquitetura de aplicações
+
+Além disso:
+ ├── Git & GitHub
+ ├── Docker
+ ├── TypeScript
+ └── Desenvolvimento de APIs
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=raimundonetozk&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raimundonetozk&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:raimundoneto461@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/raimundonetozk">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-Obrigado por visitar meu perfil! ⭐.Sempre aprendendo e construindo coisas novas. 🚀
+### ⭐ Sempre aprendendo e construindo coisas novas.
 
 </div>
