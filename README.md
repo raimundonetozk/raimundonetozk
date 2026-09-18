@@ -56,7 +56,7 @@ Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento b
 
 ---
 
-## Vamos conversar?
+## Contatos
 
 - **Email**: [raimundoneto461@gmail.com](mailto:raimundoneto461@gmail.com)
 - **LinkedIn**: [Raimundo Neto](https://www.linkedin.com/in/raimundo-nonato-83668b32a)
@@ -65,6 +65,6 @@ Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento b
 
 <div align="center">
 
-Sempre em busca de aprender e de novos projetos para praticar. Vamos trocar ideias! 😄
+Obrigado por visitar meu perfil! ⭐.Sempre aprendendo e construindo coisas novas. 🚀
 
 </div>
