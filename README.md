@@ -42,6 +42,13 @@ Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### IA & Integrações
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" />
+</p>
+
 ---
 
 ## Estatísticas
