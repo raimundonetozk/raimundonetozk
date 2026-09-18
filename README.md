@@ -40,18 +40,12 @@ Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento b
 
 ## Estatísticas
 
-<p align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 <p align="center">
   <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=raimundonetozk&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=raimundonetozk&theme=tokyo-night&hide_border=true" />
-</p>
+
 
 ---
 
