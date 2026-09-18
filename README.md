@@ -1,102 +1,70 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Raimundo+Neto!;Estudante+de+Ciência+da+Computação;Futuro+Desenvolvedor+Backend" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Raimundo+Neto!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futuro+Desenvolvedor+Backend)](https://git.io/typing-svg)
+
+[Email](mailto:raimundoneto461@gmail.com) • [LinkedIn](https://www.linkedin.com/in/raimundo-nonato-83668b32a)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-🎓 **Estudante de Ciência da Computação na UEPB**
-
-💻 Focado em **desenvolvimento backend com Java**
-
-🐍 Experiência acadêmica com **Python, C e Java**
-
-📚 Atualmente estudando **Spring Boot e APIs REST**
-
-🚀 Construindo projetos práticos para desenvolver minhas habilidades
-
-🎯 Buscando **estágio ou oportunidade júnior** na área de desenvolvimento
-
-📍 Brasil
+Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento backend. Comecei com Java, Python e C na faculdade e venho colocando esse aprendizado em prática em projetos como um sistema de gerenciamento de estoque, um programa de cadastro de doação de sangue e um chatbot de pagamentos com tools MCP, feito em grupo com Node.js, TypeScript e React. Agora estou aprofundando meus estudos em Java, Spring Boot e APIs REST, e busco meu primeiro estágio ou oportunidade júnior na área.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-<div align="center">
+### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+### Frontend
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Minhas estatísticas no GitHub
+### DevOps
 
-<div align="center">
-
-<img src="./profile/stats.svg" width="48%" alt="Estatísticas do GitHub"/>
-<img src="./profile/top-langs.svg" width="48%" alt="Principais linguagens"/>
-
-</div>
-
----
-
-
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/raimundonetozk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raimundonetozk&repo=SEU-REPOSITORIO-1&theme=radical&hide_border=true" alt="Projeto em destaque"/>
-</a>
-
-<a href="https://github.com/raimundonetozk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=raimundonetozk&repo=SEU-REPOSITORIO-2&theme=radical&hide_border=true" alt="Projeto em destaque"/>
-</a>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📚 Atualmente estudando
+## Estatísticas
 
-* ☕ Java e Programação Orientada a Objetos
-* 🌱 Spring Boot
-* 🔗 APIs REST
-* 🗄️ Bancos de dados e SQL
-* 🔧 Git e GitHub
-* 🧠 Estruturas de dados e algoritmos
+<p align="center">
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=raimundonetozk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundonetozk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com/?user=raimundonetozk&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=raimundonetozk&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+## Vamos conversar?
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/raimundo-nonato-83668b32a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:raimundoneto461@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
+- **Email**: [raimundoneto461@gmail.com](mailto:raimundoneto461@gmail.com)
+- **LinkedIn**: [Raimundo Neto](https://www.linkedin.com/in/raimundo-nonato-83668b32a)
 
 ---
 
 <div align="center">
 
-⭐ **Obrigado por visitar meu perfil!**
+Sempre em busca de aprender e de novos projetos para praticar. Vamos trocar ideias! 😄
 
 </div>
