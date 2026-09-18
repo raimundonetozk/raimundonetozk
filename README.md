@@ -8,9 +8,6 @@
   Construindo projetos, aprendendo novas tecnologias e transformando conhecimento em código.
 </p>
 
-<a href="https://github.com/raimundonetozk">
-  <img src="https://img.shields.io/github/followers/raimundonetozk?label=Seguidores&style=flat-square&logo=github" alt="Seguidores">
-</a>
 <a href="https://github.com/raimundonetozk?tab=repositories">
   <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=flat-square&logo=github" alt="Projetos">
 </a>
