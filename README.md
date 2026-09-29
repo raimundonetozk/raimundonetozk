@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/raimundo-nonato-83668b32a">
+<a href="https://www.linkedin.com/in/raimundontt">
   <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
